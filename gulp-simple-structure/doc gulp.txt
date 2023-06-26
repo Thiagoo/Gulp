@@ -1,0 +1,12 @@
+
+/**gulp install**/
+-npm install -g gulp
+-npm install --save-dev gulp
+-create a gulpfile.js
+-npm install -D gulp-sass
+-npm install gulp-watch -D
+-npm install gulp-concat
+-npm install gulp-clean-css'
+-npm install gulp-uglify'
+-npm install gulp-htmlmin
+-npm install gulp-image-optimization'
